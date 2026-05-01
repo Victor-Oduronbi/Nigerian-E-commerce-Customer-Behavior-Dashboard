@@ -27,7 +27,11 @@ This project applies data science workflows to evaluate customer behavior for a 
   \
 📊 Customer Mapping\
 \
-  <img width="3541" height="2052" alt="image" src="https://github.com/user-attachments/assets/14322e86-7783-41d3-be74-b6af76d3e6dc" />
+  <img width="3541" height="2052" alt="image" src="https://github.com/user-attachments/assets/14322e86-7783-41d3-be74-b6af76d3e6dc" />\
+📌 **How to Run**:
+* Clone this repo.
+* Install requirements: pip install pandas seaborn numpy matplotlib plotly scipy
+* Open notebook/Nigerian E-commerce Customer Behavior Dashboard Analysis.ipynb in Jupyter.\
 \
 📬 **Contact**\
-*Oduronbi Victor* – [Your LinkedIn Link](www.linkedin.com/in/victor-oduronbi-62b22132b) – [Your Email](victoroduronbi@gmail.com)
+*Oduronbi Victor* – (LinkedIn) www.linkedin.com/in/victor-oduronbi-62b22132b – (Email) victoroduronbi@gmail.com

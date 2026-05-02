@@ -9,6 +9,8 @@ This project applies data science workflows to evaluate customer behavior for a 
 * *The P-Value (0.00001)*: The experiment returned a P-value far below the 0.05 threshold, proving the marketing campaign's success was not a random coincidence.
 * *Bottom Line*: Scaling this 9% lift across the entire 'At-Risk' segment would generate an estimated *₦10,913,507.88 Million* in incremental monthly revenue.\
 \
+<img width="1187" height="584" alt="image" src="https://github.com/user-attachments/assets/5eeec683-6b15-456b-8329-d82df6a2df1a" />\
+\
 🛠️ **The Toolkit**
 * *Language*: Python
 * *Core Math*: Scipy (T-Tests), NumPy, Pandas

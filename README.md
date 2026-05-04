@@ -1,7 +1,7 @@
 # E-Commerce Customer Segmentation & Business Intelligence 🛍️📊\
 \
 📌 **Overview**\
-This project applies data science workflows to evaluate customer behavior for a simulated Nigerian e-commerce platform. By engineering RFM (Recency, Frequency, Monetary) scores from 100,000+ raw transaction records from the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv) on Kaggle. This analysis profiles high-value shoppers and runs simulated A/B tests to measure campaign effectiveness.\
+This project applies data science workflows to evaluate customer behavior for a simulated Nigerian e-commerce platform. By engineering RFM (Recency, Frequency, Monetary) scores from 100,000+ raw transaction records from the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv) on Kaggle using Mapping and Localisation techniques. This analysis profiles high-value shoppers and runs simulated A/B tests to measure campaign effectiveness.\
 \
 🚀 **Key Findings & Business Impact**
 * *The "At-Risk" Goldmine*: Our At-Risk Loyalists represent massive dormant value. A simulated campaign targeting this group proved highly effective.
